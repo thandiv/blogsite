@@ -389,5 +389,6 @@ nav {
     border:10px double black;
     border-radius:20%;
     position:relative;
-    bottom:5500px;
+    bottom:6500px;
+    left:800;
 }
