@@ -32,7 +32,7 @@ img {
 h1 {
     width:60%;
     position:relative;
-    left:400px;
+    left:500px;
     font-size:20px;
     position:relative;
     border-left:4px dashed black;
@@ -43,7 +43,7 @@ h1 {
     padding-bottom:50px;
     padding-top:40px;
     background-color:rgba(171, 225, 228, 0.677);
-    bottom:310px
+    bottom:210px
 }
 h2 {
     font-size:1500%;
