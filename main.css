@@ -307,7 +307,7 @@ nav {
 .glean {
     width:30%;
     position:relative;
-    bottom:5890px;
+    bottom:5870px;
     left:50px;
     border:10px double black;
     border-radius:20%;
@@ -355,7 +355,7 @@ nav {
 }
 .gleancapt {
     position:relative;
-    bottom:6300px;
+    bottom:6280px;
     right:435px;
     font-size:13px;
     border:1.5px solid black;
