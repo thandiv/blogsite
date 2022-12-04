@@ -321,7 +321,7 @@ nav {
     border:10px double black;
     border-radius:20%;
     position:relative;
-    bottom:4500px;
+    bottom:4300px;
     left:200px;
 }
 .books {
@@ -369,7 +369,7 @@ nav {
 }
 .octopuscapt {
     position:relative;
-    bottom:4785px;
+    bottom:4585px;
     right:600px;
     font-size:13px;
     border:1.5px solid black;
