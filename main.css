@@ -381,14 +381,14 @@ nav {
     border:10px double black;
     border-radius:20%;
     position:relative;
-    bottom:4500px;
-    left:200px;
+    bottom:7500px;
+    left:100px;
 }
 .heckart {
-    width:34%;
+    width:60%;
     border:10px double black;
     border-radius:20%;
     position:relative;
-    bottom:9500px;
-    left:200px;
+    bottom:4500px;
+    left:100px;
 }
