@@ -384,3 +384,11 @@ nav {
     bottom:2500px;
     left:200px;
 }
+.heckart {
+    width:34%;
+    border:10px double black;
+    border-radius:20%;
+    position:relative;
+    bottom:2500px;
+    left:200px;
+}
