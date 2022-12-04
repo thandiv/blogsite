@@ -16,7 +16,7 @@ body {
     -webkit-text-fill-color: rgba(226, 233, 234, 0.62);
     position:relative;
     bottom:1250px;
-    right:300px;
+    left:200px;
 }
 img {
     margin-left:fill;
