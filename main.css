@@ -160,7 +160,11 @@ nav {
     left:100px;
     bottom:900px;
     display:block;
-    background-color:rgb(61, 64, 83)
+    background-color:rgb(61, 64, 83);
+    opacity:.5
+}
+.clouds:hover {
+    opacity:0
 }
 .font1 {
     font-size:60px;
