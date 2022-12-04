@@ -369,7 +369,7 @@ nav {
 }
 .octopuscapt {
     position:relative;
-    bottom:4800px;
+    bottom:4750px;
     right:600px;
     font-size:13px;
     border:1.5px solid black;
@@ -377,7 +377,7 @@ nav {
     width:5%;
 }
 .linc {
-    width:60%;
+    width:30%;
     border:10px double black;
     border-radius:20%;
     position:relative;
@@ -389,6 +389,6 @@ nav {
     border:10px double black;
     border-radius:20%;
     position:relative;
-    bottom:10500px;
+    bottom:9500px;
     left:200px;
 }
