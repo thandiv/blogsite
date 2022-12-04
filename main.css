@@ -164,7 +164,7 @@ nav {
     opacity:.5
 }
 .clouds:hover {
-    opacity:0
+    opacity:1
 }
 .font1 {
     font-size:60px;
@@ -336,7 +336,11 @@ nav {
     left:650px;
     bottom:1279px;
     display:block;
-    background-color:rgb(61, 64, 83)
+    background-color:rgb(61, 64, 83);
+    opacity:.5;
+}
+.books:hover {
+    opacity:1;
 }
 .notebookcapt {
     font-size:15px;
