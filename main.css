@@ -377,11 +377,11 @@ nav {
     width:5%;
 }
 .linc {
-    width:34%;
+    width:60%;
     border:10px double black;
     border-radius:20%;
     position:relative;
-    bottom:2500px;
+    bottom:4500px;
     left:200px;
 }
 .heckart {
@@ -389,6 +389,6 @@ nav {
     border:10px double black;
     border-radius:20%;
     position:relative;
-    bottom:2500px;
+    bottom:10500px;
     left:200px;
 }
