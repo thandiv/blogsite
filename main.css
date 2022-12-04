@@ -10,13 +10,13 @@ body {
     background-color:rgb(208, 251, 254);
 }
 .homephoto {
-    font-size:1400%;
+    font-size:1200%;
     font-family:'Margarine', sans-serif;
     -webkit-text-stroke: 4px black;
     -webkit-text-fill-color: rgba(226, 233, 234, 0.62);
     position:relative;
-    bottom:1250px;
-    left:200px;
+    bottom:1350px;
+    left:300px;
 }
 img {
     margin-left:fill;
