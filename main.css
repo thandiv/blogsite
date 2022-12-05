@@ -314,7 +314,7 @@ nav {
 .food {
     width:30%;
     position:relative;
-    bottom:4885px;
+    bottom:4865px;
     left:750px;
     border:10px double black;
     border-radius:20%
@@ -367,7 +367,7 @@ nav {
 }
 .foodcapt {
     position:relative;
-    bottom:5140px;
+    bottom:5120px;
     left:550px;
     font-size:13px;
     border:1.5px solid black;
