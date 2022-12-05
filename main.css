@@ -16,7 +16,7 @@ body {
     -webkit-text-fill-color: rgba(226, 233, 234, 0.62);
     position:relative;
     bottom:950px;
-    left:400px;
+    left:410px;
 }
 img {
     margin-left:fill;
@@ -157,7 +157,7 @@ nav {
     border:10px double black;
     position:relative;
     left:50px;
-    bottom:700px;
+    bottom:500px;
     display:block;
     background-color:rgb(61, 64, 83);
     opacity:.8
@@ -334,7 +334,7 @@ nav {
     border:10px double black;
     position:relative;
     left:550px;
-    bottom:1079px;
+    bottom:979px;
     display:block;
     background-color:rgb(61, 64, 83);
     opacity:.8;
@@ -389,7 +389,7 @@ nav {
     border:10px double black;
     border-radius:20%;
     position:relative;
-    bottom:8810px;
+    bottom:8610px;
     left:40px;
 }
 .heckart {
@@ -402,9 +402,9 @@ nav {
 }
 .heckartcapt {
     position:relative;
-    bottom:5500px;
-    right:600px;
-    font-size:20px;
+    bottom:6500px;
+    left:600px;
+    font-size:30px;
     border:1.5px solid black;
     padding:6px;
     width:20%;
