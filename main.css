@@ -18,6 +18,16 @@ body {
     bottom:1000px;
     left:420px;
 }
+.myname {
+    .homephoto {
+    font-size:700%;
+    font-family:'Margarine', sans-serif;
+    -webkit-text-stroke: 4px black;
+    -webkit-text-fill-color: rgba(226, 233, 234, 0.62);
+    position:relative;
+    bottom:1000px;
+    right:420px;
+}
 img {
     margin-left:fill;
     margin-right:fill;
