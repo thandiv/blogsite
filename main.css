@@ -15,7 +15,7 @@ body {
     -webkit-text-stroke: 4px black;
     -webkit-text-fill-color: rgba(226, 233, 234, 0.62);
     position:relative;
-    bottom:1350px;
+    bottom:1150px;
     left:400px;
 }
 img {
@@ -32,7 +32,7 @@ img {
 h1 {
     width:65%;
     position:relative;
-    left:450px;
+    left:449px;
     font-size:20px;
     padding:20px;
     padding-bottom:50px;
