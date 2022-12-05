@@ -240,7 +240,7 @@ nav {
     border-radius:5%;
 }
 .text4 {
-    border:none;
+    border:10px double black;
     position:relative;
     bottom:2350px;
     right:85px;
