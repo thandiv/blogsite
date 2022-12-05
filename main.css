@@ -156,8 +156,8 @@ nav {
     height:100%;
     border:10px double black;
     position:relative;
-    left:100px;
-    bottom:900px;
+    left:50px;
+    bottom:700px;
     display:block;
     background-color:rgb(61, 64, 83);
     opacity:.8
@@ -173,7 +173,7 @@ nav {
 }
 .moveheader {
     position:relative;
-    bottom:950px;
+    bottom:750px;
 }
 .adhdtitle {
     font-size:250px;
@@ -332,8 +332,8 @@ nav {
     height:100%;
     border:10px double black;
     position:relative;
-    left:650px;
-    bottom:1279px;
+    left:550px;
+    bottom:1079px;
     display:block;
     background-color:rgb(61, 64, 83);
     opacity:.8;
