@@ -421,8 +421,8 @@ nav {
     width:20%;
 }
 .square {
-  height: 600px;
-  width: 100px;
+  height:100%;
+  width: 200px;
   background-color:rgba(171, 225, 228, 0.677);
   align:right;
 }
