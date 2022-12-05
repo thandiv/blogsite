@@ -175,7 +175,7 @@ nav {
 .moveheader {
     position:relative;
     bottom:600px;
-    right:180px;
+    right:200px;
 }
 .adhdtitle {
     font-size:250px;
@@ -335,7 +335,7 @@ nav {
     border:10px double black;
     border-radius:5%;
     position:relative;
-    left:530px;
+    left:510px;
     bottom:879px;
     display:block;
     background-color:rgb(61, 64, 83);
