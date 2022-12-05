@@ -35,13 +35,13 @@ h1 {
     left:446px;
     font-size:20px;
     padding:20px;
-    padding-bottom:50px;
+    padding-bottom:30px;
     position:relative;
     border-left:4px dashed black;
     border-right:4px dashed black;
     border-top:4px dashed black;
     background-color:rgba(171, 225, 228, 0.677);
-    bottom:176px;
+    bottom:156px;
 }
 h2 {
     font-size:1500%;
