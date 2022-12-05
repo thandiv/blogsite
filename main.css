@@ -420,3 +420,9 @@ nav {
     padding:35px;
     width:20%;
 }
+.square {
+  height: 600px;
+  width: 100px;
+  background-color:rgba(171, 225, 228, 0.677);
+  align:right;
+}
