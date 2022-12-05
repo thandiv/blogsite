@@ -399,3 +399,12 @@ nav {
     bottom:6845px;
     left:500px;
 }
+.heckartcapt {
+    position:relative;
+    bottom:4745px;
+    right:600px;
+    font-size:20px;
+    border:1.5px solid black;
+    padding:6px;
+    width:5%;
+}
