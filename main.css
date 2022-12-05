@@ -15,7 +15,7 @@ body {
     -webkit-text-stroke: 4px black;
     -webkit-text-fill-color: rgba(226, 233, 234, 0.62);
     position:relative;
-    bottom:950px;
+    bottom:1000px;
     left:420px;
 }
 img {
