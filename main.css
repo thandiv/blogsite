@@ -160,7 +160,8 @@ nav {
     bottom:500px;
     display:block;
     background-color:rgb(61, 64, 83);
-    opacity:.8
+    opacity:.8;
+    border-radius:5%;
 }
 .clouds:hover {
     opacity:1
@@ -236,7 +237,7 @@ nav {
     left:560px;
     bottom:2235px;
     border:10px double black;
-    border-radius:20%;
+    border-radius:5%;
 }
 .text4 {
     border:none;
@@ -310,7 +311,7 @@ nav {
     bottom:5870px;
     left:50px;
     border:10px double black;
-    border-radius:20%;
+    border-radius:5%;
 }
 .food {
     width:30%;
@@ -318,12 +319,12 @@ nav {
     bottom:4845px;
     left:750px;
     border:10px double black;
-    border-radius:20%
+    border-radius:5%
 }
 .octopus {
     width:34%;
     border:10px double black;
-    border-radius:20%;
+    border-radius:5%;
     position:relative;
     bottom:4465px;
     left:200px;
@@ -332,6 +333,7 @@ nav {
     width:400px;
     height:100%;
     border:10px double black;
+    border-radius:5%;
     position:relative;
     left:550px;
     bottom:879px;
@@ -387,7 +389,7 @@ nav {
 .linc {
     width:30%;
     border:10px double black;
-    border-radius:20%;
+    border-radius:5%;
     position:relative;
     bottom:8675px;
     left:50px;
@@ -395,7 +397,7 @@ nav {
 .heckart {
     width:55%;
     border:10px double black;
-    border-radius:20%;
+    border-radius:5%;
     position:relative;
     bottom:6845px;
     left:500px;
