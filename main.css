@@ -24,8 +24,8 @@ body {
     -webkit-text-stroke: 4px black;
     -webkit-text-fill-color: rgba(226, 233, 234, 0.62);
     position:relative;
-    bottom:1000px;
-    right:420px;
+    bottom:1300px;
+    right:400px;
 }
 img {
     margin-left:fill;
@@ -184,7 +184,7 @@ nav {
 .moveheader {
     position:relative;
     bottom:600px;
-    right:200px;
+    right:180px;
 }
 .adhdtitle {
     font-size:250px;
