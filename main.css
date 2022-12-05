@@ -413,10 +413,10 @@ nav {
 }
 .heckartcapt {
     position:relative;
-    bottom:7350px;
+    bottom:7360px;
     right:450px;
     font-size:25px;
     border:1.5px solid black;
-    padding:25px;
+    padding:35px;
     width:20%;
 }
