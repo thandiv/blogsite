@@ -389,7 +389,7 @@ nav {
     border:10px double black;
     border-radius:20%;
     position:relative;
-    bottom:8750px;
+    bottom:9000px;
     left:50px;
 }
 .heckart {
@@ -402,8 +402,8 @@ nav {
 }
 .heckartcapt {
     position:relative;
-    bottom:6700px;
-    left:200px;
+    bottom:7400px;
+    right:600px;
     font-size:30px;
     border:1.5px solid black;
     padding:6px;
