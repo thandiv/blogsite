@@ -32,9 +32,10 @@ img {
 h1 {
     width:65%;
     position:relative;
-    left:505px;
+    left:470px;
     font-size:20px;
     padding:20px;
+    padding-bottom:50px;
     position:relative;
     border-left:4px dashed black;
     border-right:4px dashed black;
