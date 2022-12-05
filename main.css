@@ -16,7 +16,7 @@ body {
     -webkit-text-fill-color: rgba(226, 233, 234, 0.62);
     position:relative;
     bottom:950px;
-    left:410px;
+    left:420px;
 }
 img {
     margin-left:fill;
@@ -334,7 +334,7 @@ nav {
     border:10px double black;
     position:relative;
     left:550px;
-    bottom:979px;
+    bottom:879px;
     display:block;
     background-color:rgb(61, 64, 83);
     opacity:.8;
@@ -389,8 +389,8 @@ nav {
     border:10px double black;
     border-radius:20%;
     position:relative;
-    bottom:8610px;
-    left:40px;
+    bottom:8750px;
+    left:50px;
 }
 .heckart {
     width:55%;
@@ -402,8 +402,8 @@ nav {
 }
 .heckartcapt {
     position:relative;
-    bottom:6500px;
-    left:600px;
+    bottom:6700px;
+    left:200px;
     font-size:30px;
     border:1.5px solid black;
     padding:6px;
