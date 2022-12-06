@@ -165,7 +165,7 @@ nav {
     height:100%;
     border:10px double black;
     position:relative;
-    left:40px;
+    left:340px;
     bottom:500px;
     display:block;
     background-color:rgb(61, 64, 83);
@@ -184,7 +184,7 @@ nav {
 .moveheader {
     position:relative;
     bottom:700px;
-    right:245px;
+    right:545px;
 }
 .adhdtitle {
     font-size:250px;
@@ -344,7 +344,7 @@ nav {
     border:10px double black;
     border-radius:5%;
     position:relative;
-    left:500px;
+    left:800px;
     bottom:879px;
     display:block;
     background-color:rgb(61, 64, 83);
@@ -422,7 +422,7 @@ nav {
 }
 .square {
   height:2000px;
-  width: 300px;
+  width: 400px;
   background-color:rgba(171, 225, 228, 0.677);
   position:absolute;
 }
