@@ -165,7 +165,7 @@ nav {
     height:100%;
     border:10px double black;
     position:relative;
-    left:340px;
+    left:440px;
     bottom:500px;
     display:block;
     background-color:rgb(61, 64, 83);
@@ -343,7 +343,7 @@ nav {
     border:10px double black;
     border-radius:5%;
     position:relative;
-    left:800px;
+    left:900px;
     bottom:879px;
     display:block;
     background-color:rgb(61, 64, 83);
