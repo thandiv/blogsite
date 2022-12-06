@@ -184,7 +184,6 @@ nav {
 .moveheader {
     position:relative;
     bottom:700px;
-    right:545px;
 }
 .adhdtitle {
     font-size:250px;
@@ -422,7 +421,7 @@ nav {
 }
 .square {
   height:2000px;
-  width: 400px;
+  width:450px;
   background-color:rgba(171, 225, 228, 0.677);
   position:absolute;
   border-right:4px dashed black;
