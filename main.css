@@ -433,3 +433,119 @@ nav {
     bottom:800px;
     left:500px;
 }
+}
+.josie {
+    font-size:1500%;
+    font-family:Impact, Haettenschweiler, sans-serif;
+    -webkit-text-stroke: 4px rgb(0, 0, 0);
+    -webkit-text-fill-color: rgb(200, 202, 210);
+    position:absolute;
+    top:5%;
+    left:50%;
+    transform: translate(-50%, -50%);
+}
+.rightalign {
+    text-align:right;
+    position:relative;
+    right:20px;
+}
+.leftalign {
+    text-align:left;
+    position:relative;
+    left:20px
+}
+.clock {
+    width:25%;
+    position:absolute;
+    left:100px;
+    padding-top:100px;
+
+}
+.headingjosie {
+    text-align:left;
+    position:relative;
+    left:125px;
+    bottom:200px;
+}
+.headingjosie1 {
+    text-align:right;
+    position:relative;
+    right:100px;
+    padding-top:10px;
+    font-size:450%;
+}
+.thenagain {
+    position:relative;
+    bottom:150px
+}
+.sixam {
+    font-size:800%;
+    position:relative;
+    left:15%;
+    -webkit-text-stroke: 4px rgb(0, 0, 0);
+    -webkit-text-fill-color: rgba(200, 202, 210, 0);
+    bottom:150px;
+}
+.iknewthat {
+    font-size:25px;
+    padding:0px;
+    padding-top:2%;
+    position:relative;
+    bottom:200px;
+    padding-left:10%;
+    padding-right:10%;
+}
+.thisis {
+    font-size:100px;
+    padding:0%;
+    position:relative;
+    padding-left:20%;
+    padding-right:20%;
+    bottom:200px;
+}
+.shouldi {
+    font-size:40px;
+    padding-top:35px;
+    padding-bottom:0px;
+    position:relative;
+    bottom:300px
+}
+.so {
+    font-size:80px;
+    position:relative;
+    bottom:250px
+}
+.everheard {
+    font-size:25px;
+    padding-top:25px;
+    padding-bottom:5px;
+    position:relative;
+    bottom:300px;
+}
+.beinside {
+    font-size:70px;
+    padding-left:10%;
+    padding-right:10%;
+    position:relative;
+    bottom:200px;
+}
+.thereit {
+    border:3px solid black;
+    padding:3%;
+    position:relative;
+    left:150px;
+   
+}
+.ibet {
+    padding-top:25px;
+    padding-bottom:5px;
+    font-size:25px;
+    position:relative;
+    bottom:200px
+}
+.dutch {
+    position:absolute;
+    width:50%;
+    left:700px;
+    border:none
+}
