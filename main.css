@@ -426,3 +426,10 @@ nav {
   background-color:rgba(171, 225, 228, 0.677);
   align:right;
 }
+.belowheader {
+    position:relative;
+    width:60%;
+    font-size:20px;
+    bottom:400px;
+    right:200px;
+}
