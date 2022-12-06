@@ -165,7 +165,7 @@ nav {
     height:100%;
     border:10px double black;
     position:relative;
-    left:440px;
+    left:490px;
     bottom:500px;
     display:block;
     background-color:rgb(61, 64, 83);
@@ -184,6 +184,7 @@ nav {
 .moveheader {
     position:relative;
     bottom:700px;
+    left:200px;
 }
 .adhdtitle {
     font-size:250px;
@@ -343,7 +344,7 @@ nav {
     border:10px double black;
     border-radius:5%;
     position:relative;
-    left:900px;
+    left:950px;
     bottom:879px;
     display:block;
     background-color:rgb(61, 64, 83);
@@ -421,7 +422,7 @@ nav {
 }
 .square {
   height:2000px;
-  width:450px;
+  width:446px;
   background-color:rgba(171, 225, 228, 0.677);
   position:absolute;
   border-right:4px dashed black;
@@ -431,7 +432,7 @@ nav {
     position:relative;
     width:50%;
     font-size:20px;
-    bottom:800px;
+    bottom:600px;
     left:500px;
 }
 .josie {
