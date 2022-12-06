@@ -425,7 +425,7 @@ nav {
   width: 300px;
   background-color:rgba(171, 225, 228, 0.677);
   align:right;
-  position:static;
+  position:absolute;
 }
 .belowheader {
     position:relative;
