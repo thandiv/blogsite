@@ -579,3 +579,9 @@ nav {
     left:50px;
     bottom:3000px
 }
+.coverrobot {
+    border-top:3px solid black;
+    border-bottom:6px solid black;
+    position:relative;
+    top:2px
+}
