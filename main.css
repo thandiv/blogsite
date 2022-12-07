@@ -574,7 +574,7 @@ nav {
     opacity:1
 }
 .dek {
-    position:relative;
+    position:absolute;
     text-align:left;
     left:50px;
 }
