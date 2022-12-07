@@ -421,11 +421,12 @@ nav {
     width:20%;
 }
 .square {
-  height:2550px;
+  height:2560px;
   width:446px;
   background-color:rgba(171, 225, 228, 0.677);
   position:absolute;
   border-right:4px dashed black;
+  z-index:1
 }
 .belowheader {
     position:relative;
@@ -548,4 +549,8 @@ nav {
     width:50%;
     left:700px;
     border:none
+}
+.octopuscover {
+    width:100%;
+    position:relative;
 }
