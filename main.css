@@ -53,6 +53,7 @@ h1 {
     border-top:4px dashed black;
     background-color:rgba(171, 225, 228, 0.677);
     bottom:156px;
+    z-index:1;
 }
 h2 {
     font-size:1500%;
