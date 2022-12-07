@@ -556,3 +556,17 @@ nav {
     position:relative;
     z-index:1;
 }
+.robotcover {
+    width:400px;
+    height:100%;
+    border:10px double black;
+    position:relative;
+    left:490px;
+    bottom:500px;
+    display:block;
+    background-color:rgb(61, 64, 83);
+    opacity:.8;
+    border-radius:5%;
+}
+.robotcover:hover {
+    opacity:1
