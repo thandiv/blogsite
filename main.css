@@ -169,7 +169,7 @@ nav {
     border:10px double black;
     position:relative;
     left:490px;
-    bottom:500px;
+    bottom:600px;
     display:block;
     background-color:rgb(61, 64, 83);
     opacity:.8;
@@ -349,7 +349,7 @@ nav {
     border-radius:5%;
     position:relative;
     left:950px;
-    bottom:879px;
+    bottom:979px;
     display:block;
     background-color:rgb(61, 64, 83);
     opacity:.8;
@@ -433,7 +433,7 @@ nav {
 }
 .belowheader {
     position:relative;
-    width:50%;
+    width:60%;
     font-size:30px;
     bottom:650px;
     left:510px;
@@ -564,7 +564,7 @@ nav {
     border:10px double black;
     position:relative;
     left:490px;
-    bottom:850px;
+    bottom:950px;
     display:block;
     background-color:rgb(61, 64, 83);
     opacity:.8;
