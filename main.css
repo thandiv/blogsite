@@ -17,6 +17,7 @@ body {
     position:relative;
     bottom:1000px;
     left:420px;
+    z-index:1;
 }
 .myname {
     font-size:300%;
@@ -26,6 +27,7 @@ body {
     position:relative;
     bottom:1100px;
     left:500px;
+    z-index:1;
 }
 img {
     margin-left:fill;
